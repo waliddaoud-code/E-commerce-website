@@ -4,7 +4,7 @@ import './CheckoutHeader.css'
 import './CheckoutPage.css'
 import { CheckoutHeader } from './CheckoutHeader'
 import { OrderSummary } from './OrderSummary'
-import { PaymentSummary } from './paymentSummary'
+import { PaymentSummary } from './PaymentSummary'
 
 
 
